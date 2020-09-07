@@ -1,1 +1,1 @@
-# Stati-ka-stranica
+# Staticka-stranica
